@@ -1,4 +1,5 @@
-//wap to multiply two matrix
+// I am aroh mishra , author of this code.
+// this is a simple code for the multiplication of two matrix
 
 
 #include<stdio.h>
