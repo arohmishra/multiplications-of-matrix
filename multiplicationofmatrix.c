@@ -56,7 +56,7 @@ printf("multiplication of the two matrix is:\n");
         for(int j = 0; j<n; j++)
         {
         	sum=0;
-          for(int k =0; k<3; k++)
+          for(int k =0; k<p; k++)
           {
             sum= sum + matrix1[i][k] * matrix2[k][j];
           }
